@@ -25,3 +25,4 @@ F:\gitWorkspace\tax\PersonalTax\obj\Debug\PersonalTax.csproj.GenerateResource.ca
 F:\gitWorkspace\tax\PersonalTax\obj\Debug\PersonalTax.csproj.CoreCompileInputs.cache
 F:\gitWorkspace\tax\PersonalTax\obj\Debug\PersonalTax.exe
 F:\gitWorkspace\tax\PersonalTax\obj\Debug\PersonalTax.pdb
+F:\gitWorkspace\tax\PersonalTax\obj\Debug\PersonalTax.csprojAssemblyReference.cache
